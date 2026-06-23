@@ -6,6 +6,20 @@
 
 Me chamo Gustavo Antunes, tenho 20 anos. Atualmente, estou cursando Sistemas da Informação na PUC-Campinas. Movido por desafios lógicos, dedico meu tempo à construção de aplicações modernas, com um interesse especial na arquitetura de backend e gerenciamento de bancos de dados.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavoantunesss/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=guantunes567@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/antune-ss">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+  
+</div>
+
 ```javascript
 const gustavo = {
   location: "Louveira, São Paulo, Brazil 🇧🇷",
@@ -28,21 +42,6 @@ const gustavo = {
   ]
 }
 ```
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gustavoantunesss/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=guantunes567@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/antune-ss">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-  
-</div>
 
 ---
 
